@@ -9,5 +9,10 @@ Users should be able to browse/buy items and add sell their own janky items on t
 ### Post MVP
 I would like to add the ability for someone to login and write a description and price their own items.
 
+### Java Models
+- Lightsabers
+- Blasters
+- Vehicles
+
 ### Wireframe
 ![wireframe](./wireframe.png)
